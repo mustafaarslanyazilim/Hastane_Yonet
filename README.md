@@ -6,12 +6,15 @@ Bu projede C# kullanarakHastane Yönetim Sistemi Otomasyonu oluşturdum.
 ![image](https://github.com/mustafaarslanyazilim/Hastane_Yonet/assets/158520799/88ff28ab-509c-4c46-8c73-bdf981a26065)
 
 ------------------------------------------------
+HASTA GİRİŞ EKRANI
 ![image](https://github.com/mustafaarslanyazilim/Hastane_Yonet/assets/158520799/680f1192-71b2-4d90-9cb1-ddac5cc15e51)
 
 ------------------------------------------------
+HASTA KAYIT OL EKRANI
 ![image](https://github.com/mustafaarslanyazilim/Hastane_Yonet/assets/158520799/31768361-390d-4b05-9a34-2800288670f0)
 
 ------------------------------------------------
+HASTA DETAY EKRANI
 ![image](https://github.com/mustafaarslanyazilim/Hastane_Yonet/assets/158520799/9648f1ad-334c-4ea3-813a-f86a141b582e)
 
 ------------------------------------------------
