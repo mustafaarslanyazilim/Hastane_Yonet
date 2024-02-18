@@ -1,6 +1,6 @@
 **Hastane Yönetim Sistemi**
 **Proje Tanıtımı**
-Bu projede C# kullanarakHastane Yönetim Sistemi Otomasyonu oluşturdum. 
+Bu projede C# kullanarak **Hastane Yönetim Sistemi Otomasyonu** oluşturdum. 
 
 ------------------------------------------------
 
