@@ -1,5 +1,5 @@
 **Hastane Yönetim Sistemi**
-/n **Proje Tanıtımı**
+**Proje Tanıtımı**
 
 ------------------------------------------------
 
