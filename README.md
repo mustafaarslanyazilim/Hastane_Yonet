@@ -8,6 +8,7 @@ Bu projede C# kullanarak **Hastane Yönetim Sistemi Otomasyonu** oluşturdum.
 ------------------------------------------------
 
 **ANA GİRİŞ EKRANI**
+
 ------------------------------------------------
 
 ![image](https://github.com/mustafaarslanyazilim/Hastane_Yonet/assets/158520799/88ff28ab-509c-4c46-8c73-bdf981a26065)
